@@ -3,4 +3,4 @@ Created for a database class project. While I did have 2 other people assigned t
 
 The queries at the end were programmed by me, as each group was to have 10 "complex" queries to access data. My partners created the other 7, but those queries are not in this file. My partners had also added some of the entires to the tables.
 
-"Required" planning files I wrote are included as well.
+Data dictionary (written by me) included as well.
